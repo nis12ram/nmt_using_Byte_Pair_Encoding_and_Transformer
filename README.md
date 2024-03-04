@@ -18,7 +18,9 @@ bash
 
 Copy code
 
+```
 git clone https://github.com/nis12ram/nmt_using_Byte_Pair_Encoding_and_Transformer.git
+```
 
 Install the required dependencies. You can do this by creating a virtual environment and installing the dependencies listed in requirements.txt:
 
