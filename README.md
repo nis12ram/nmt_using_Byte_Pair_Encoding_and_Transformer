@@ -4,9 +4,9 @@
 Welcome to the Transformer with Byte Pair Encoding (BPE) repository! This repository contains code implementations and Jupyter notebooks showcasing the use of the Transformer mechanism from the "Attention is All You Need" paper along with Byte Pair Encoding (BPE) for translation tasks. The models are implemented using PyTorch.
 
 ## Repository Structure
-bpe.ipynb: This notebook provides a detailed explanation of Byte Pair Encoding (BPE) and its implementation using Python. It covers the basics of BPE tokenization, its advantages, and how it is utilized in natural language processing tasks.
+understand_Byte_Pair_using_english_to_spanish_dataset.ipynb: This notebook provides a detailed explanation of Byte Pair Encoding (BPE) and its implementation using Python. It covers the basics of BPE tokenization, its advantages, and how it is utilized in natural language processing tasks.
 
-translation.ipynb: This notebook demonstrates the translation task using the Transformer model with BPE tokenization. It specifically translates English text to Spanish using a dataset provided within the notebook.
+english_to_spanish(Byte_Pair_Encoding)_translator.ipynb: This notebook demonstrates the translation task using the Transformer model with BPE tokenization. It specifically translates English text to Spanish using a dataset provided within the notebook.
 
 ## Usage
 To use the notebooks in this repository, follow these ways:
