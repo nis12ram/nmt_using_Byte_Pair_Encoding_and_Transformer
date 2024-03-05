@@ -8,6 +8,10 @@ understand_Byte_Pair_using_english_to_spanish_dataset.ipynb: This notebook provi
 
 english_to_spanish(Byte_Pair_Encoding)_translator.ipynb: This notebook demonstrates the translation task using the Transformer model with BPE tokenization. It specifically translates English text to Spanish using a dataset provided within the notebook.
 
+## Dataset
+
+http://storage.googleapis.com/download.tensorflow.org/data/spa-eng.zip
+
 ## Usage
 To use the notebooks in this repository, follow these ways:
 way 1
